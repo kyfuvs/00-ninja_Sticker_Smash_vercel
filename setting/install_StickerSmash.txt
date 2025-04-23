@@ -1,0 +1,11 @@
+expo doc
+https://docs.expo.dev/tutorial/create-your-first-app/
+
+** install 
+1. >> npx create-expo-app@latest StickerSmash
+
+** Reset
+1. >> npm run reset-project
+
+** Run 
+1. >> npx expo start 
