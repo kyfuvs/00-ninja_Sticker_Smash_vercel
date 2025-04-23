@@ -7,4 +7,5 @@ git remote add origin https://github.com/kyfuvs/00-ninja_Sticker_Smash_vercel.gi
 git push -u origin master 
 
 ==================
-1. git commit -m "dark-bottom_tabs-dd" 
+1. git commit -m "dark-bottom_tabs-dd"
+2. git commit -m "add dist"
